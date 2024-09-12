@@ -12,7 +12,7 @@
 
 ---
 
-# University Activities Tracker - Data Encryption Course
+# University Activities Tracker - Image Proccessing Course
 
 This repository is dedicated to tracking academic activities for the **Image Proccessing** course. The goal is to organize and manage course-related assignments and lectures. The lectures presented during theoretical sessions will be uploaded here, as well as any practical applications conducted during lab sessions.
 
